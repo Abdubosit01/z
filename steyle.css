@@ -1,0 +1,105 @@
+div{
+background-color: rgb(97, 97, 97);
+height: 150px;
+border-radius: 10px;
+}
+
+
+h1,h2,h3{
+    color: white;
+    text-align: center;
+}
+
+.Oq{
+    color: white;
+    text-align: center;
+
+}
+
+
+
+.oq{
+    background-color: rgb(228, 228, 228);
+    height: 125px;
+    border: 2px solid rgb(224, 224, 224);
+}
+
+h2{
+    color: rgba(32, 255, 32, 0.781);
+}
+p{
+    color: black;
+    text-align: center;
+}
+
+
+.yashil{
+background-color: rgb(5, 255, 180);
+height: 300px;
+
+    
+}
+
+h2{
+    color: rgb(54, 109, 0);
+}
+.mars{
+    text-align: left;
+      border-left: 2px solid  blue;
+}
+
+.man{
+    color: rgb(69, 69, 255);
+    text-align: left;
+    border-left: 2px solid blue;
+}
+
+.san{
+color: rgb(73, 122, 24);
+text-align: left;
+border-left: 2px solid blue;
+}
+
+.odiy{
+
+color: black;
+    text-align: left;
+    border-left: 2px solid blue;
+
+}
+.qora{
+    color: black;
+    text-align: left;
+    border-left: 2px solid blue;
+
+
+}
+.pushti{
+background-color: rgb(255, 226, 231);
+height: 250px;
+
+}
+
+.uch{
+color: rgb(255, 0, 0);
+
+}
+.kok{
+text-align: left;
+border-left: 2px solid blue;
+}
+.tor{
+    text-align: left;
+    border-left: 2px solid blue;
+
+}
+.besh{
+    text-align: left;
+    border-left: 2px solid blue;
+
+}
+.olti{
+background-color: rgb(44, 17, 70);
+height: 80px;
+}
+
